@@ -1,4 +1,4 @@
-# bibliometricanalysis
+# Bibliometric Analysis Project - Change Detection in Remote Sensing
 
 This project aims to conduct a comprehensive bibliometric analysis in the field of "Change Detection" in Remote Sensing. Change detection is a critical research area within the context of Remote Sensing, playing a fundamental role in monitoring and understanding changes occurring in landscapes, environments, and natural phenomena over time.
 
@@ -15,3 +15,4 @@ The dataset used in this project includes detailed information about scientific 
 It is expected that this bibliometric analysis will contribute to the deepening of knowledge in the field of Change Detection in Remote Sensing, supporting future research, decision-making, and development strategies in this multidisciplinary and dynamic field.
 
 Note: This project is purely analytical and does not involve the production of new data or original research. All information used is extracted from publicly available sources.
+
