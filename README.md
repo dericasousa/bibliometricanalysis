@@ -16,3 +16,13 @@ It is expected that this bibliometric analysis will contribute to the deepening 
 
 Note: This project is purely analytical and does not involve the production of new data or original research. All information used is extracted from publicly available sources.
 
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sousade.wordpress.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dericasousa/)
+
+## License
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
+## Author
+
+- [@dericasousa](https://github.com/dericasousa)
