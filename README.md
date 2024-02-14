@@ -29,4 +29,4 @@ Note: This project is purely analytical and does not involve the production of n
 ## Author
 
 - [@dericasousa](https://github.com/dericasousa)
-- 📧 derica.sousa@edu.udesc.br
+- 📧 drksbr@proton.me
